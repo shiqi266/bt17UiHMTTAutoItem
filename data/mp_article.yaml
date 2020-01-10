@@ -1,0 +1,4 @@
+mp_article001:
+  title: test-20190424-001
+  content: 今天晚上海底捞！
+  expect: 新增文章成功
